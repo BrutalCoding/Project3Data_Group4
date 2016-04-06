@@ -22,13 +22,13 @@
     <AppXManifest Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-04-06T23:31:23.248</Modified>
+      <Modified>2016-04-06T23:38:11.019</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.UWP\bin\x86\Debug\Project3Data_Group4.UWP.exe">
       <PackagePath>entrypoint\Project3Data_Group4.UWP.exe</PackagePath>
-      <Modified>2016-04-06T23:31:22.930</Modified>
+      <Modified>2016-04-06T23:38:09.786</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -460,7 +460,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\bin\Debug\Project3Data_Group4.dll">
       <PackagePath>Project3Data_Group4.dll</PackagePath>
-      <Modified>2016-04-06T23:29:45.306</Modified>
+      <Modified>2016-04-06T23:37:54.440</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -518,11 +518,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-04-06T23:18:19.156</Modified>
+      <Modified>2016-04-06T23:38:10.763</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.UWP\bin\x86\Debug\Core\Project3Data_Group4.UWP.exe">
       <PackagePath>Project3Data_Group4.UWP.exe</PackagePath>
-      <Modified>2016-04-06T23:31:23.247</Modified>
+      <Modified>2016-04-06T23:38:11.012</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
