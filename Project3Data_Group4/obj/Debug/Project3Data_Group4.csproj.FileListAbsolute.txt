@@ -1,0 +1,14 @@
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\bin\Debug\Project3Data_Group4.dll
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\bin\Debug\Project3Data_Group4.pdb
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\obj\Debug\Project3Data_Group4.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\obj\Debug\Project3Data_Group4.dll
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\obj\Debug\Project3Data_Group4.pdb
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\obj\Debug\Project3Data_Group4.dll.mdb
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\bin\Debug\Project3Data_Group4.dll.mdb
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\obj\Debug\Project3Data_Group4.dll.mdb
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\bin\Debug\Project3Data_Group4.dll.mdb

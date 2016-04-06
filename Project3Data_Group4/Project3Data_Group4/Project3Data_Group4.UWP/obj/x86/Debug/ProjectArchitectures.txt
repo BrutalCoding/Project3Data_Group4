@@ -1,0 +1,2 @@
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.UWP\Project3Data_Group4.UWP.csproj;x86
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.csproj;neutral
