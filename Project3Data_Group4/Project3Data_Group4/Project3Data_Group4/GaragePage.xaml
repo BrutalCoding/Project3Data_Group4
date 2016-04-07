@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+	xmlns="http://xamarin.com/schemas/2014/forms" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+	x:Class="Project3Data_Group4.GaragePage">
+	<ContentPage.Content>
+	<StackLayout Padding="0,20,0,0" Spacing="10">
+		<Button	x:Name="ButtonGetGarages" Text="Get Garages"/>
+		
+		<ListView x:Name="GaragesList" ItemsSource="{Binding Garages}">
+			<ListView.ItemTemplate>
+				<DataTemplate>
+       				<TextCell Text="{Binding Name}"
+		                      Detail="{Binding Address}"
+          			          TextColor="#f35e20"
+		                      DetailColor="#503026" />
+				</DataTemplate>
+			</ListView.ItemTemplate>
+		</ListView>
+	</StackLayout>
+	</ContentPage.Content>
+</ContentPage>
