@@ -2,5 +2,14 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="project3data_group4.project3data_group4" android:installLocation="auto">
 	<uses-sdk android:minSdkVersion="15" />
 	<uses-permission android:name="android.permission.CALL_PHONE" />
-	<application android:label="Roffa Parkeergarage Zoeker"></application>
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+	<uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<application android:label="Roffa Parkeergarage Zoeker">
+		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyDC9zGYw472uxE6GZX-6Tf_6lONS_eKKps" />
+	</application>
 </manifest>
