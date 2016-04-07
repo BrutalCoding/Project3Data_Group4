@@ -7,10 +7,10 @@ namespace Project3Data_Group4
     {
         public App()
         {
-//			dailer page
-//            MainPage = new Project3Data_Group4.MainPage();
+//			Master Menu
+			MainPage = new Project3Data_Group4.Menu();
 
-			MainPage = new NavigationPage(new GaragePage());
+//			MainPage = new NavigationPage(new Menu());
 
 			// page with all garages in map
 			// MainPage = new NavigationPage(new GarageMapPage());
