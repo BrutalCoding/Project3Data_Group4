@@ -124,12 +124,6 @@
   <ItemGroup>
     <None Include="Properties\AndroidManifest.xml" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Project3Data_Group4\Project3Data_Group4.csproj">
-      <Name>Project3Data_Group4</Name>
-      <Project>{EE0EE97E-049D-4E18-95BA-072E767046F2}</Project>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <Import Project="..\..\packages\Xamarin.Forms.2.1.0.6529\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets" Condition="Exists('..\..\packages\Xamarin.Forms.2.1.0.6529\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets')" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
@@ -139,4 +133,10 @@
   <Target Name="AfterBuild">
   </Target>
   -->
+  <ItemGroup>
+    <ProjectReference Include="..\Project3Data_Group4\Project3Data_Group4.csproj">
+      <Project>{EE0EE97E-049D-4E18-95BA-072E767046F2}</Project>
+      <Name>Project3Data_Group4</Name>
+    </ProjectReference>
+  </ItemGroup>
 </Project>
