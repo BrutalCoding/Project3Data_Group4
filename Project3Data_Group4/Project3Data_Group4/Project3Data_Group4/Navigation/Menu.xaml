@@ -10,6 +10,17 @@
         <ContentPage Title="Master" BackgroundColor="Transparent" >
             <!-- Master Page -->
             <Label HorizontalTextAlignment="Center" VerticalTextAlignment="Center">Master</Label>
+            <ListView>
+			    <ListView.ItemTemplate>
+			      <DataTemplate>
+			        <ViewCell>
+			          <ViewCell.View>
+			            <Label Text="test" />
+			          </ViewCell.View>
+			        </ViewCell>
+			      </DataTemplate>
+			    </ListView.ItemTemplate>
+		  	</ListView>
         </ContentPage>
     </MasterDetailPage.Master>
  
