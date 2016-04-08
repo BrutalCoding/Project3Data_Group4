@@ -83,8 +83,9 @@ namespace Project3Data_Group4
 					try {
 						var position = new Position (item.locationForDisplay.latitude, item.locationForDisplay.longitude);
 						var possibleAddresses = await geoCoder.GetAddressesForPositionAsync (position);
+						
 						foreach (var address in possibleAddresses){
-							string[] lines = address.Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
+							string[] lines = address.Split(new string[] { "\n"}, StringSplitOptions.None);
 							item.Address = lines[0];
 							item.ZipCode = lines[1];
 							if (lines.Length > 2)
