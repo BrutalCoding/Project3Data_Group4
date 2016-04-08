@@ -2,18 +2,30 @@
 <ContentPage 
 	xmlns="http://xamarin.com/schemas/2014/forms" 
 	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+	xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
 	x:Class="Project3Data_Group4.GaragePage">
 	<ContentPage.Content>
 	<StackLayout Padding="0,20,0,0" Spacing="10">
-		<Button	x:Name="ButtonGetGarages" Text="Get Garages"/>
-		
-		<ListView x:Name="GaragesList" ItemsSource="{Binding Garages}">
+		<maps:Map WidthRequest="320" HeightRequest="200"
+	            x:Name="MyMap"
+	            IsShowingUser="true"
+	            MapType="Hybrid"
+	        />
+		<Button	x:Name="ButtonGetGaragesList" Text="Get Garages list"/>
+		<Button	x:Name="ButtonGetGaragesMap" Text="Get Garages map"/>
+			
+		<ListView x:Name="GaragesList" SeparatorVisibility="None" ItemsSource="{Binding Garages}">
 			<ListView.ItemTemplate>
 				<DataTemplate>
-       				<TextCell Text="{Binding Name}"
-		                      Detail="{Binding Address}"
-          			          TextColor="#f35e20"
-		                      DetailColor="#503026" />
+					<ViewCell>
+				         <ViewCell.ContextActions>
+				            <MenuItem Clicked="GetRoute" CommandParameter="{Binding .}"
+				               Text="More" />
+				         </ViewCell.ContextActions>
+				         <StackLayout Padding="15,0">
+				             <Label Text="{Binding Name}" />
+				         </StackLayout>
+				      </ViewCell>
 				</DataTemplate>
 			</ListView.ItemTemplate>
 		</ListView>

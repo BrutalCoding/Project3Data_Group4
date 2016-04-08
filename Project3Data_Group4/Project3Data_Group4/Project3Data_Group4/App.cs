@@ -12,8 +12,8 @@ namespace Project3Data_Group4
 
 			MainPage = new NavigationPage(new GaragePage());
 
-			// page with all garages in map
-			// MainPage = new NavigationPage(new GarageMapPage());
+//			 page with all garages in map
+//			MainPage = new NavigationPage(new GarageMapPage());
         }
 
         protected override void OnStart()
