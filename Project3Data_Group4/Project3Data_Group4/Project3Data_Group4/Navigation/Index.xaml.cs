@@ -5,9 +5,9 @@ using Xamarin.Forms;
 
 namespace Project3Data_Group4
 {
-	public partial class Second : ContentPage
+	public partial class Index : ContentPage
 	{
-		public Second ()
+		public Index ()
 		{
 			InitializeComponent ();
 		}

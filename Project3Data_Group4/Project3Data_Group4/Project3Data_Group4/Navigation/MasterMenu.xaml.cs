@@ -5,13 +5,12 @@ using Xamarin.Forms;
 
 namespace Project3Data_Group4
 {
-	public partial class Menu : MasterDetailPage
+	public partial class MasterMenu : ContentPage
 	{
-		public Menu ()
+		public MasterMenu ()
 		{
 			InitializeComponent ();
 		}
-
 	}
 }
 
