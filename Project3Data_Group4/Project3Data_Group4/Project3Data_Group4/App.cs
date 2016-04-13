@@ -5,13 +5,10 @@ namespace Project3Data_Group4
 {
     public class App : Application
     {
-        public App()
+		public App()
         {
 //			Master Menu
-			MainPage = new Project3Data_Group4.Menu();
-
-//			MainPage = new NavigationPage(new Menu());
-
+			MainPage =  new NavigationPage(new Project3Data_Group4.MasterMenu());
 //			 page with all garages in map
 //			MainPage = new NavigationPage(new GarageMapPage());
         }

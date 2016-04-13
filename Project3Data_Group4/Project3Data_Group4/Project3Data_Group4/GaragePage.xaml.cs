@@ -63,7 +63,7 @@ namespace Project3Data_Group4
 		} 
 		public void GetRoute (object sender, EventArgs e) {
 		    var mi = ((MenuItem)sender);
-		    DisplayAlert("More Context Action", mi.CommandParameter + " more context action", "OK");
+		    //DisplayAlert("More Context Action", mi.CommandParameter + " more context action", "OK");
 		}
 	}
 }
