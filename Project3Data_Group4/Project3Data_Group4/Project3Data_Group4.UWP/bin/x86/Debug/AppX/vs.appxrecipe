@@ -22,13 +22,13 @@
     <AppXManifest Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-04-06T23:38:11.019</Modified>
+      <Modified>2016-04-15T17:36:42.370</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.UWP\bin\x86\Debug\Project3Data_Group4.UWP.exe">
       <PackagePath>entrypoint\Project3Data_Group4.UWP.exe</PackagePath>
-      <Modified>2016-04-06T23:38:09.786</Modified>
+      <Modified>2016-04-15T17:36:41.537</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -460,53 +460,61 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\bin\Debug\Project3Data_Group4.dll">
       <PackagePath>Project3Data_Group4.dll</PackagePath>
-      <Modified>2016-04-06T23:37:54.440</Modified>
+      <Modified>2016-04-15T17:36:39.947</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\bin\Debug\Xamarin.Forms.Maps.dll">
+      <PackagePath>Xamarin.Forms.Maps.dll</PackagePath>
+      <Modified>2016-03-13T03:41:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2016-03-14T20:30:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2016-04-06T22:42:45.844</Modified>
+      <Modified>2016-04-15T12:54:32.023</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2016-04-06T22:42:45.815</Modified>
+      <Modified>2016-04-15T12:50:37.483</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-04-06T22:42:45.816</Modified>
+      <Modified>2016-04-15T12:50:37.484</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-04-06T22:42:45.816</Modified>
+      <Modified>2016-04-15T12:50:37.485</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-04-06T22:42:45.817</Modified>
+      <Modified>2016-04-15T12:50:37.485</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-04-06T22:42:45.818</Modified>
+      <Modified>2016-04-15T12:50:37.486</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-04-06T22:42:45.818</Modified>
+      <Modified>2016-04-15T12:50:37.487</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-04-06T22:42:45.819</Modified>
+      <Modified>2016-04-15T12:50:37.487</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.UWP\bin\x86\Debug\Project3Data_Group4.UWP.xr.xml">
       <PackagePath>Project3Data_Group4.UWP.xr.xml</PackagePath>
-      <Modified>2016-04-06T22:43:53.515</Modified>
+      <Modified>2016-04-15T12:54:31.970</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
-      <Modified>2016-04-06T20:50:11.318</Modified>
+      <Modified>2016-04-09T19:11:40.826</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\.nuget\packages\Xamarin.Forms\2.0.0.6482\lib\uap10.0\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
@@ -518,11 +526,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-04-06T23:38:10.763</Modified>
+      <Modified>2016-04-15T17:36:42.112</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.UWP\bin\x86\Debug\Core\Project3Data_Group4.UWP.exe">
       <PackagePath>Project3Data_Group4.UWP.exe</PackagePath>
-      <Modified>2016-04-06T23:38:11.012</Modified>
+      <Modified>2016-04-15T17:36:42.365</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

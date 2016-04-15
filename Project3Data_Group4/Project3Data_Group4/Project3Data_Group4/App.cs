@@ -8,7 +8,7 @@ namespace Project3Data_Group4
 		public App()
         {
 //			Master Menu
-			MainPage =  new NavigationPage(new Project3Data_Group4.MasterMenu());
+			MainPage = new Navigation.MasterMenu();
 //			 page with all garages in map
 //			MainPage = new NavigationPage(new GarageMapPage());
         }

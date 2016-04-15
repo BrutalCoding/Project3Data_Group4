@@ -19,12 +19,12 @@ namespace Project3Data_Group4
 			
 //			Get list items
 			ButtonGetGaragesList.Clicked += async (sender, e) => 
-				{
-					ButtonGetGaragesList.IsEnabled = false;
-					await vm.GetGarageAsync();
+			{
+				ButtonGetGaragesList.IsEnabled = false;
+				await vm.GetGarageAsync();
 	
-					ButtonGetGaragesList.IsEnabled = true;
-				};
+				ButtonGetGaragesList.IsEnabled = true;
+			};
 
 
 //			Get map pins

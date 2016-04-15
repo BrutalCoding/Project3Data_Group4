@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="project3data_group4.project3data_group4" android:installLocation="auto" android:versionCode="1" android:versionName="1.0">
-  <!--suppress UsesMinSdkAttributes-->
-  <uses-sdk android:minSdkVersion="15" />
+  <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="23" />
   <uses-permission android:name="android.permission.CALL_PHONE" />
   <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
   <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
@@ -13,7 +12,7 @@
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
   <application android:label="Roffa Parkeergarage Zoeker" android:name="mono.android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
-    <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyDC9zGYw472uxE6GZX-6Tf_6lONS_eKKps" />
+    <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyD4YjZ5dpxPO9Wjq4M44dI0Em63km69FYw" />
     <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
     <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="Project3Data_Group4" android:name="md5993bdb241c23ad49aafcd48a0d57759f.MainActivity">
       <intent-filter>

@@ -36,28 +36,22 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="App.cs" />
-    <Compile Include="IDialer.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="PhoneTranslator.cs" />
+    <Compile Include="Navigation\MasterMenu.xaml.cs">
+      <DependentUpon>MasterMenu.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="GarageStuff.cs" />
-    <Compile Include="GarageDetailPage.xaml.cs">
-      <DependentUpon>GarageDetailPage.xaml</DependentUpon>
-    </Compile>
     <Compile Include="GaragePage.xaml.cs">
       <DependentUpon>GaragePage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="GarageMapPage.xaml.cs">
-      <DependentUpon>GarageMapPage.xaml</DependentUpon>
+    <Compile Include="Tabs\StatistiekenGarages.xaml.cs">
+      <DependentUpon>StatistiekenGarages.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Navigation\First.xaml.cs" />
-    <Compile Include="Navigation\Menu.xaml.cs" />
-    <Compile Include="Navigation\Second.xaml.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="GettingStarted.Xamarin" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
@@ -65,18 +59,9 @@
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="GarageDetailPage.xaml">
-      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-    </EmbeddedResource>
     <EmbeddedResource Include="GaragePage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Include="GarageMapPage.xaml">
-      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Navigation\First.xaml" />
-    <EmbeddedResource Include="Navigation\Menu.xaml" />
-    <EmbeddedResource Include="Navigation\Second.xaml" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -117,6 +102,15 @@
   </Target>
   -->
   <ItemGroup>
-    <Folder Include="Navigation\" />
+    <EmbeddedResource Include="Navigation\MasterMenu.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Tabs\StatistiekenGarages.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
   </ItemGroup>
 </Project>
