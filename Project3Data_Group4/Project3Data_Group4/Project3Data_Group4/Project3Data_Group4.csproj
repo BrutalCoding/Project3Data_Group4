@@ -52,9 +52,6 @@
     <Compile Include="GarageMapPage.xaml.cs">
       <DependentUpon>GarageMapPage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Navigation\First.xaml.cs" />
-    <Compile Include="Navigation\Menu.xaml.cs" />
-    <Compile Include="Navigation\Second.xaml.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="GettingStarted.Xamarin" />
@@ -74,9 +71,6 @@
     <EmbeddedResource Include="GarageMapPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Include="Navigation\First.xaml" />
-    <EmbeddedResource Include="Navigation\Menu.xaml" />
-    <EmbeddedResource Include="Navigation\Second.xaml" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -116,7 +110,5 @@
   <Target Name="AfterBuild">
   </Target>
   -->
-  <ItemGroup>
-    <Folder Include="Navigation\" />
-  </ItemGroup>
+  <ItemGroup />
 </Project>
