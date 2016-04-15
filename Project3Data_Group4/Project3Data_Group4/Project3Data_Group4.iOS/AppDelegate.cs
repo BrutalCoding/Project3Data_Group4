@@ -4,6 +4,8 @@ using System.Linq;
 
 using Foundation;
 using UIKit;
+using Syncfusion.SfChart.XForms.iOS.Renderers;
+
 
 namespace Project3Data_Group4.iOS
 {
@@ -24,6 +26,8 @@ namespace Project3Data_Group4.iOS
         {
             global::Xamarin.Forms.Forms.Init();
 			Xamarin.FormsMaps.Init();
+
+			new SfChartRenderer();
 
             LoadApplication(new App());
             return base.FinishedLaunching(app, options);

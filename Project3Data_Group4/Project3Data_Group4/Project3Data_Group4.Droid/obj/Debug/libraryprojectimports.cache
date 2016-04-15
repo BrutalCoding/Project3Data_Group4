@@ -2,19 +2,21 @@
 <Paths>
   <Jars></Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>/Users/Mac/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/Mac/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/Mac/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Maps.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/bunyaminsakar/Dropbox/xamarin/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/bunyaminsakar/Dropbox/xamarin/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/bunyaminsakar/Dropbox/xamarin/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Maps.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/bunyaminsakar/Dropbox/xamarin/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Syncfusion.SfChart.Android/library_project_imports/res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
-    <ResolvedAssetDirectory>/Users/Mac/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>/Users/Mac/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>/Users/Mac/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Maps.Android/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/bunyaminsakar/Dropbox/xamarin/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/bunyaminsakar/Dropbox/xamarin/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/bunyaminsakar/Dropbox/xamarin/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Maps.Android/library_project_imports/assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>/Users/Mac/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/Mac/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/Mac/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Maps.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/bunyaminsakar/Dropbox/xamarin/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/bunyaminsakar/Dropbox/xamarin/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/bunyaminsakar/Dropbox/xamarin/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Maps.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/bunyaminsakar/Dropbox/xamarin/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Syncfusion.SfChart.Android.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>

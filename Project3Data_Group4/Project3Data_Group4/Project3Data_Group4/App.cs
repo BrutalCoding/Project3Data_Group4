@@ -7,10 +7,7 @@ namespace Project3Data_Group4
     {
 		public App()
         {
-//			Master Menu
-			MainPage =  new NavigationPage(new Project3Data_Group4.MasterMenu());
-//			 page with all garages in map
-//			MainPage = new NavigationPage(new GarageMapPage());
+			MainPage = new Project3Data_Group4.MainPage ();
         }
 
         protected override void OnStart()

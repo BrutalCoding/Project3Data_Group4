@@ -6,6 +6,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using Syncfusion.SfChart.XForms.Droid;
 
 namespace Project3Data_Group4.Droid
 {
@@ -18,6 +19,7 @@ namespace Project3Data_Group4.Droid
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
 			Xamarin.FormsMaps.Init(this, bundle);
+			new SfChartRenderer();
 
             LoadApplication(new App());
         }
