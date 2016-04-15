@@ -10,3 +10,9 @@ C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Dat
 C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\obj\Debug\Project3Data_Group4.pdb
 C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\obj\Debug\Project3Data_Group4.dll.mdb
 C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\bin\Debug\Project3Data_Group4.dll.mdb
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\obj\Debug\Project3Data_Group4.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\obj\Debug\Project3Data_Group4.GarageDetailPage.xaml.g.cs
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\obj\Debug\Project3Data_Group4.GaragePage.xaml.g.cs
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\obj\Debug\Project3Data_Group4.GarageMapPage.xaml.g.cs
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\obj\Debug\Project3Data_Group4.dll.mdb
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\bin\Debug\Project3Data_Group4.dll.mdb

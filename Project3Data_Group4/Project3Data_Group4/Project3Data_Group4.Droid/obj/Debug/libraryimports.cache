@@ -5,7 +5,11 @@
   </ManifestDocuments>
   <NativeLibraries />
   <Jars>
+<<<<<<< HEAD
     <Jar>obj/Debug/__library_projects__/FormsViewGroup/library_project_imports/formsviewgroup.jar</Jar>
     <Jar>obj/Debug/__library_projects__/Syncfusion.SfChart.Android/library_project_imports/bin/SfChart.Android.jar</Jar>
+=======
+    <Jar>obj\Debug\__library_projects__\FormsViewGroup\library_project_imports\formsviewgroup.jar</Jar>
+>>>>>>> fc30f17190d0074745d495c46258abfa34a65b25
   </Jars>
 </Paths>

@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
   <Jars></Jars>
+<<<<<<< HEAD
   <ResolvedResourceDirectories>
     <ResolvedResourceDirectory>/Users/bunyaminsakar/Dropbox/xamarin/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/bunyaminsakar/Dropbox/xamarin/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/res</ResolvedResourceDirectory>
@@ -19,4 +20,10 @@
     <ResolvedResourceDirectoryStamp>/Users/bunyaminsakar/Dropbox/xamarin/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Maps.Android.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/bunyaminsakar/Dropbox/xamarin/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4/Project3Data_Group4.Droid/obj/Debug/__library_projects__/Syncfusion.SfChart.Android.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
+=======
+  <ResolvedResourceDirectories />
+  <ResolvedAssetDirectories />
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps />
+>>>>>>> fc30f17190d0074745d495c46258abfa34a65b25
 </Paths>

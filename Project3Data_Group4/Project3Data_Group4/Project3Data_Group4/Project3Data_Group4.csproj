@@ -49,6 +49,7 @@
     <Compile Include="GarageMapPage.xaml.cs">
       <DependentUpon>GarageMapPage.xaml</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="Charts\ParkCapacity.xaml.cs">
       <DependentUpon>ParkCapacity.xaml</DependentUpon>
     </Compile>
@@ -65,6 +66,8 @@
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Navigation\MasterPageItem.cs" />
+=======
+>>>>>>> fc30f17190d0074745d495c46258abfa34a65b25
   </ItemGroup>
   <ItemGroup>
     <None Include="GettingStarted.Xamarin" />
@@ -81,6 +84,7 @@
     <EmbeddedResource Include="GarageMapPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+<<<<<<< HEAD
     <EmbeddedResource Include="Charts\ParkCapacity.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
@@ -96,6 +100,8 @@
     <EmbeddedResource Include="Navigation\MainPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+=======
+>>>>>>> fc30f17190d0074745d495c46258abfa34a65b25
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Platform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -139,9 +145,13 @@
   <Target Name="AfterBuild">
   </Target>
   -->
+<<<<<<< HEAD
   <ItemGroup>
     <Folder Include="Navigation\" />
     <Folder Include="Data\" />
     <Folder Include="Charts\" />
   </ItemGroup>
+=======
+  <ItemGroup />
+>>>>>>> fc30f17190d0074745d495c46258abfa34a65b25
 </Project>
