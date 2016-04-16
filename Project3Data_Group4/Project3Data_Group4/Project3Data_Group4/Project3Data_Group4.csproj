@@ -47,7 +47,7 @@
     <Compile Include="GaragePage.xaml.cs">
       <DependentUpon>GaragePage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Tabs\StatistiekenGarages.xaml.cs">
+    <Compile Include="Navigation\StatistiekenGarages.xaml.cs">
       <DependentUpon>StatistiekenGarages.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
@@ -64,6 +64,10 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <Reference Include="Syncfusion.SfChart.XForms, Version=14.1451.0.41, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Syncfusion.Xamarin.SfChart.14.1.0.41\lib\portable-win+net45+wp80+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Syncfusion.SfChart.XForms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Xamarin.Forms.Core, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null">
       <HintPath>..\..\packages\Xamarin.Forms.2.1.0.6529\lib\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.Core.dll</HintPath>
     </Reference>
@@ -108,7 +112,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Tabs\StatistiekenGarages.xaml">
+    <EmbeddedResource Include="Navigation\StatistiekenGarages.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>

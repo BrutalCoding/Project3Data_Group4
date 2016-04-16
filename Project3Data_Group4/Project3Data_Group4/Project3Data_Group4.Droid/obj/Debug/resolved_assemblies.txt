@@ -4,6 +4,9 @@ C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Dat
 C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.Droid\obj\Debug\assemblies\mscorlib.dll
 C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.Droid\obj\Debug\assemblies\Newtonsoft.Json.dll
 C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.Droid\obj\Debug\assemblies\Project3Data_Group4.dll
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.Droid\obj\Debug\assemblies\Syncfusion.SfChart.Android.dll
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.Droid\obj\Debug\assemblies\Syncfusion.SfChart.XForms.Android.dll
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.Droid\obj\Debug\assemblies\Syncfusion.SfChart.XForms.dll
 C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.Droid\obj\Debug\assemblies\System.Core.dll
 C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.Droid\obj\Debug\assemblies\System.dll
 C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.Droid\obj\Debug\assemblies\System.Net.Http.dll

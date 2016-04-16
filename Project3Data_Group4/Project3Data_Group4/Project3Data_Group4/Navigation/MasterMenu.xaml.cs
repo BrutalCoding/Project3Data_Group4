@@ -36,7 +36,7 @@ namespace Project3Data_Group4.Navigation
             switch (gekozenOptie.LijstItemNaam)
             {
                 case "Toon map":
-                    this.Detail = new TabbedPage { Children = {new GaragePage(), new Tabs.StatistiekenGarages()}};
+                    this.Detail = new TabbedPage { Children = { new GaragePage(), new StatistiekenGarages()}};
                     break;
 
                 default:

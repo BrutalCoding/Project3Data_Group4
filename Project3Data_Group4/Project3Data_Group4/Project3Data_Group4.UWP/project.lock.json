@@ -255,6 +255,18 @@
           "lib/dotnet/Microsoft.Win32.Primitives.dll": {}
         }
       },
+      "Syncfusion.Xamarin.SfChart/14.1.0.41": {
+        "compile": {
+          "lib/uap10.0/Syncfusion.SfChart.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Syncfusion.SfChart.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.dll": {}
+        }
+      },
       "System.AppContext/4.0.0": {
         "dependencies": {
           "System.Collections": "4.0.0",
@@ -2049,6 +2061,18 @@
           "lib/dotnet/Microsoft.Win32.Primitives.dll": {}
         }
       },
+      "Syncfusion.Xamarin.SfChart/14.1.0.41": {
+        "compile": {
+          "lib/uap10.0/Syncfusion.SfChart.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Syncfusion.SfChart.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.dll": {}
+        }
+      },
       "System.AppContext/4.0.0": {
         "dependencies": {
           "System.Collections": "4.0.0",
@@ -3689,6 +3713,18 @@
           "lib/dotnet/Microsoft.Win32.Primitives.dll": {}
         }
       },
+      "Syncfusion.Xamarin.SfChart/14.1.0.41": {
+        "compile": {
+          "lib/uap10.0/Syncfusion.SfChart.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Syncfusion.SfChart.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.dll": {}
+        }
+      },
       "System.AppContext/4.0.0": {
         "dependencies": {
           "System.Collections": "4.0.0",
@@ -5325,6 +5361,18 @@
         },
         "runtime": {
           "lib/dotnet/Microsoft.Win32.Primitives.dll": {}
+        }
+      },
+      "Syncfusion.Xamarin.SfChart/14.1.0.41": {
+        "compile": {
+          "lib/uap10.0/Syncfusion.SfChart.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Syncfusion.SfChart.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.dll": {}
         }
       },
       "System.AppContext/4.0.0": {
@@ -6967,6 +7015,18 @@
           "lib/dotnet/Microsoft.Win32.Primitives.dll": {}
         }
       },
+      "Syncfusion.Xamarin.SfChart/14.1.0.41": {
+        "compile": {
+          "lib/uap10.0/Syncfusion.SfChart.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Syncfusion.SfChart.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.dll": {}
+        }
+      },
       "System.AppContext/4.0.0": {
         "dependencies": {
           "System.Collections": "4.0.0",
@@ -8603,6 +8663,18 @@
         },
         "runtime": {
           "lib/dotnet/Microsoft.Win32.Primitives.dll": {}
+        }
+      },
+      "Syncfusion.Xamarin.SfChart/14.1.0.41": {
+        "compile": {
+          "lib/uap10.0/Syncfusion.SfChart.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Syncfusion.SfChart.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.dll": {}
         }
       },
       "System.AppContext/4.0.0": {
@@ -10243,6 +10315,18 @@
         },
         "runtime": {
           "lib/dotnet/Microsoft.Win32.Primitives.dll": {}
+        }
+      },
+      "Syncfusion.Xamarin.SfChart/14.1.0.41": {
+        "compile": {
+          "lib/uap10.0/Syncfusion.SfChart.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Syncfusion.SfChart.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.UWP.dll": {},
+          "lib/uap10.0/Syncfusion.SfChart.XForms.dll": {}
         }
       },
       "System.AppContext/4.0.0": {
@@ -12252,6 +12336,102 @@
         "ref/net46/Microsoft.Win32.Primitives.dll",
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._"
+      ]
+    },
+    "Syncfusion.Xamarin.SfChart/14.1.0.41": {
+      "sha512": "g8uVo3t6kSPKAj5W3xrsZrrmQ4yxXECdMO83WxKTSyPpgjobiy4gwkJGkLuHgzq5fBdVQlAp2vVUCfVkzlIRug==",
+      "type": "package",
+      "files": [
+        "Syncfusion.Xamarin.SfChart.14.1.0.41.nupkg.sha512",
+        "Syncfusion.Xamarin.SfChart.nuspec",
+        "lib/MonoAndroid10/Syncfusion.SfChart.Android.dll",
+        "lib/MonoAndroid10/Syncfusion.SfChart.XForms.Android.dll",
+        "lib/MonoAndroid10/Syncfusion.SfChart.XForms.dll",
+        "lib/WP80/Syncfusion.SfChart.WP8.dll",
+        "lib/WP80/Syncfusion.SfChart.XForms.WinPhone.dll",
+        "lib/WP80/Syncfusion.SfChart.XForms.dll",
+        "lib/Xamarin.iOS10/Syncfusion.SfChart.XForms.dll",
+        "lib/Xamarin.iOS10/Syncfusion.SfChart.XForms.iOS.dll",
+        "lib/Xamarin.iOS10/Syncfusion.SfChart.iOS.dll",
+        "lib/portable-win+net45+wp80+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Syncfusion.SfChart.XForms.dll",
+        "lib/uap10.0/Syncfusion.SfChart.UWP.dll",
+        "lib/uap10.0/Syncfusion.SfChart.UWP.pri",
+        "lib/uap10.0/Syncfusion.SfChart.UWP.xml",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/3D/ChartArea/Themes/SfChart3D.xaml",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/3D/ChartArea/Themes/SfChart3D.xbf",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/3D/ChartSeries/Themes/ChartSeries.xaml",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/3D/ChartSeries/Themes/ChartSeries.xbf",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/ChartArea/Themes/ChartArea.xaml",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/ChartArea/Themes/ChartArea.xbf",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/ChartAxis/Themes/ChartAxis.xaml",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/ChartAxis/Themes/ChartAxis.xbf",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/ChartSeries/Themes/ChartSeries.xaml",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/ChartSeries/Themes/ChartSeries.xbf",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/Controls/Themes/ChartToolBar.xaml",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/Controls/Themes/ChartToolBar.xbf",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/Controls/Themes/ResizableScrollBar.xaml",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/Controls/Themes/ResizableScrollBar.xbf",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/Controls/Themes/Resizer.xaml",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/Controls/Themes/Resizer.xbf",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/Controls/Themes/SfRangeNavigator.xaml",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/Controls/Themes/SfRangeNavigator.xbf",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/Properties/Syncfusion.SfChart.UWP_2015.rd.xml",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/Sparkline/Themes/Sparkline.xaml",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/Sparkline/Themes/Sparkline.xbf",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/Syncfusion.SfChart.UWP.xml",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/Syncfusion.SfChart.UWP.xr.xml",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/Themes/Generic.Common.xaml",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/Themes/Generic.Common.xbf",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/Themes/Generic.Legend.xaml",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/Themes/Generic.Legend.xbf",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/Themes/Generic.Symbol.xaml",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/Themes/Generic.Symbol.xbf",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/Themes/generic.xaml",
+        "lib/uap10.0/Syncfusion.SfChart.UWP/Themes/generic.xbf",
+        "lib/uap10.0/Syncfusion.SfChart.XForms.UWP.dll",
+        "lib/uap10.0/Syncfusion.SfChart.XForms.dll",
+        "lib/win81/Syncfusion.SfChart.WinRT.dll",
+        "lib/win81/Syncfusion.SfChart.WinRT.pri",
+        "lib/win81/Syncfusion.SfChart.WinRT.xml",
+        "lib/win81/Syncfusion.SfChart.WinRT/3D/ChartArea/Themes/SfChart3D.xbf",
+        "lib/win81/Syncfusion.SfChart.WinRT/3D/ChartSeries/Themes/ChartSeries.xbf",
+        "lib/win81/Syncfusion.SfChart.WinRT/ChartArea/Themes/ChartArea.xbf",
+        "lib/win81/Syncfusion.SfChart.WinRT/ChartAxis/Themes/ChartAxis.xbf",
+        "lib/win81/Syncfusion.SfChart.WinRT/ChartSeries/Themes/ChartSeries.xbf",
+        "lib/win81/Syncfusion.SfChart.WinRT/Controls/Themes/ChartToolBar.xbf",
+        "lib/win81/Syncfusion.SfChart.WinRT/Controls/Themes/ResizableScrollBar.xbf",
+        "lib/win81/Syncfusion.SfChart.WinRT/Controls/Themes/Resizer.xbf",
+        "lib/win81/Syncfusion.SfChart.WinRT/Controls/Themes/SfRangeNavigator.xbf",
+        "lib/win81/Syncfusion.SfChart.WinRT/Sparkline/Themes/Sparkline.xbf",
+        "lib/win81/Syncfusion.SfChart.WinRT/Syncfusion.SfChart.WinRT.xml",
+        "lib/win81/Syncfusion.SfChart.WinRT/Syncfusion.SfChart.WinRT.xr.xml",
+        "lib/win81/Syncfusion.SfChart.WinRT/Themes/Generic.Common.xbf",
+        "lib/win81/Syncfusion.SfChart.WinRT/Themes/Generic.Legend.xbf",
+        "lib/win81/Syncfusion.SfChart.WinRT/Themes/Generic.Symbol.xbf",
+        "lib/win81/Syncfusion.SfChart.WinRT/Themes/generic.xbf",
+        "lib/win81/Syncfusion.SfChart.XForms.WinRT.dll",
+        "lib/win81/Syncfusion.SfChart.XForms.dll",
+        "lib/wpa81/Syncfusion.SfChart.WP.dll",
+        "lib/wpa81/Syncfusion.SfChart.WP.pri",
+        "lib/wpa81/Syncfusion.SfChart.WP.xml",
+        "lib/wpa81/Syncfusion.SfChart.WP/3D/ChartArea/Themes/SfChart3D.xbf",
+        "lib/wpa81/Syncfusion.SfChart.WP/3D/ChartSeries/Themes/ChartSeries.xbf",
+        "lib/wpa81/Syncfusion.SfChart.WP/ChartArea/Themes/ChartArea.xbf",
+        "lib/wpa81/Syncfusion.SfChart.WP/ChartAxis/Themes/ChartAxis.xbf",
+        "lib/wpa81/Syncfusion.SfChart.WP/ChartSeries/Themes/ChartSeries.xbf",
+        "lib/wpa81/Syncfusion.SfChart.WP/Controls/Themes/ChartToolBar.xbf",
+        "lib/wpa81/Syncfusion.SfChart.WP/Controls/Themes/ResizableScrollBar.xbf",
+        "lib/wpa81/Syncfusion.SfChart.WP/Controls/Themes/Resizer.xbf",
+        "lib/wpa81/Syncfusion.SfChart.WP/Controls/Themes/SfRangeNavigator.xbf",
+        "lib/wpa81/Syncfusion.SfChart.WP/Sparkline/Themes/Sparkline.xbf",
+        "lib/wpa81/Syncfusion.SfChart.WP/Syncfusion.SfChart.WP.xml",
+        "lib/wpa81/Syncfusion.SfChart.WP/Syncfusion.SfChart.WP.xr.xml",
+        "lib/wpa81/Syncfusion.SfChart.WP/Themes/Generic.Common.xbf",
+        "lib/wpa81/Syncfusion.SfChart.WP/Themes/Generic.Legend.xbf",
+        "lib/wpa81/Syncfusion.SfChart.WP/Themes/Generic.Symbol.xbf",
+        "lib/wpa81/Syncfusion.SfChart.WP/Themes/generic.xbf",
+        "lib/wpa81/Syncfusion.SfChart.XForms.WinPhone.dll",
+        "lib/wpa81/Syncfusion.SfChart.XForms.dll"
       ]
     },
     "System.AppContext/4.0.0": {
@@ -14872,6 +15052,7 @@
   "projectFileDependencyGroups": {
     "": [
       "Microsoft.NETCore.UniversalWindowsPlatform >= 5.0.0",
+      "Syncfusion.Xamarin.SfChart >= 14.1.0.41",
       "Xamarin.Forms >= 2.0.0.6482"
     ],
     "UAP,Version=v10.0": []

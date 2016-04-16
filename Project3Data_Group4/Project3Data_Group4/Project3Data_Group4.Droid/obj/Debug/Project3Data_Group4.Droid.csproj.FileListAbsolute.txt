@@ -37,6 +37,8 @@ C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Dat
 C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
 C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.Droid\obj\Debug\R.cs.flag
 C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.Droid\obj\Debug\uploadflags.txt
-C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.Droid\bin\Debug\Project3Data_Group4.dll.mdb
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.Droid\bin\Debug\Syncfusion.SfChart.Android.dll
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.Droid\bin\Debug\Syncfusion.SfChart.XForms.Android.dll
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.Droid\bin\Debug\Syncfusion.SfChart.XForms.dll
 C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.Droid\obj\Debug\Project3Data_Group4.Droid.dll.mdb
 C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4.Droid\bin\Debug\Project3Data_Group4.Droid.dll.mdb

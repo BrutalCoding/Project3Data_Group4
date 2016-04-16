@@ -66,6 +66,15 @@
     <AppxPackagedFile Include="C:\Users\Daniel\.nuget\packages\Microsoft.Win32.Primitives\4.0.0\lib\dotnet\Microsoft.Win32.Primitives.dll">
       <PackagePath>Microsoft.Win32.Primitives.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\.nuget\packages\Syncfusion.Xamarin.SfChart\14.1.0.41\lib\uap10.0\Syncfusion.SfChart.UWP.dll">
+      <PackagePath>Syncfusion.SfChart.UWP.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\.nuget\packages\Syncfusion.Xamarin.SfChart\14.1.0.41\lib\uap10.0\Syncfusion.SfChart.XForms.UWP.dll">
+      <PackagePath>Syncfusion.SfChart.XForms.UWP.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\.nuget\packages\Syncfusion.Xamarin.SfChart\14.1.0.41\lib\uap10.0\Syncfusion.SfChart.XForms.dll">
+      <PackagePath>Syncfusion.SfChart.XForms.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\.nuget\packages\System.AppContext\4.0.0\lib\netcore50\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>
     </AppxPackagedFile>
@@ -386,6 +395,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\.nuget\packages\Syncfusion.Xamarin.SfChart\14.1.0.41\lib\uap10.0\Syncfusion.SfChart.UWP\Syncfusion.SfChart.UWP.xr.xml">
+      <PackagePath>Syncfusion.SfChart.UWP\Syncfusion.SfChart.UWP.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\.nuget\packages\Syncfusion.Xamarin.SfChart\14.1.0.41\lib\uap10.0\Syncfusion.SfChart.UWP\Properties\Syncfusion.SfChart.UWP_2015.rd.xml">
+      <PackagePath>Syncfusion.SfChart.UWP\Properties\Syncfusion.SfChart.UWP_2015.rd.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\.nuget\packages\Xamarin.Forms\2.0.0.6482\lib\uap10.0\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
