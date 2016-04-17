@@ -10,7 +10,7 @@
     <chart:SfChart x:Name="Chart" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
 
       <chart:SfChart.Title>
-        <chart:ChartTitle Text="Expenditures"/>
+        <chart:ChartTitle Text="Garages"/>
       </chart:SfChart.Title>
 
       <chart:SfChart.BindingContext>

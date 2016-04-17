@@ -72,6 +72,7 @@ namespace Project3Data_Group4
 			try {
 				var client = new HttpClient ();
 				var json = await client.GetStringAsync ("http://opendata.technolution.nl/opendata/parkingdata/v1");
+
 				var geoCoder = new Geocoder();
 				
 				Garagelist Garagelist = JsonConvert.DeserializeObject<Garagelist>(json);

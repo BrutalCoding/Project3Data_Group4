@@ -22,3 +22,4 @@ C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Dat
 C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\obj\Debug\Project3Data_Group4.Navigation.Chart.StatistiekenGarages.xaml.g.cs
 C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\obj\Debug\Project3Data_Group4.dll
 C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\obj\Debug\Project3Data_Group4.pdb
+C:\Users\Daniel\Source\Repos\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\Project3Data_Group4\obj\Debug\Project3Data_Group4.csprojResolveAssemblyReference.cache
