@@ -156,19 +156,23 @@ namespace Project3Data_Group4.UWP.Project3Data_Group4_UWP_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[5];
+            _typeNameTable = new string[7];
             _typeNameTable[0] = "Xamarin.Forms.Platform.UWP.WindowsPage";
             _typeNameTable[1] = "Xamarin.Forms.Platform.UWP.WindowsBasePage";
             _typeNameTable[2] = "Windows.UI.Xaml.Controls.Page";
             _typeNameTable[3] = "Windows.UI.Xaml.Controls.UserControl";
             _typeNameTable[4] = "Project3Data_Group4.UWP.MainPage";
+            _typeNameTable[5] = "Syncfusion.SfChart.XForms.UWP.TooltipViewConverter";
+            _typeNameTable[6] = "Object";
 
-            _typeTable = new global::System.Type[5];
+            _typeTable = new global::System.Type[7];
             _typeTable[0] = typeof(global::Xamarin.Forms.Platform.UWP.WindowsPage);
             _typeTable[1] = typeof(global::Xamarin.Forms.Platform.UWP.WindowsBasePage);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[3] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
             _typeTable[4] = typeof(global::Project3Data_Group4.UWP.MainPage);
+            _typeTable[5] = typeof(global::Syncfusion.SfChart.XForms.UWP.TooltipViewConverter);
+            _typeTable[6] = typeof(global::System.Object);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -205,6 +209,7 @@ namespace Project3Data_Group4.UWP.Project3Data_Group4_UWP_XamlTypeInfo
 
         private object Activate_0_WindowsPage() { return new global::Xamarin.Forms.Platform.UWP.WindowsPage(); }
         private object Activate_4_MainPage() { return new global::Project3Data_Group4.UWP.MainPage(); }
+        private object Activate_5_TooltipViewConverter() { return new global::Syncfusion.SfChart.XForms.UWP.TooltipViewConverter(); }
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(int typeIndex)
         {
@@ -241,6 +246,17 @@ namespace Project3Data_Group4.UWP.Project3Data_Group4_UWP_XamlTypeInfo
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
+
+            case 5:   //  Syncfusion.SfChart.XForms.UWP.TooltipViewConverter
+                userType = new global::Project3Data_Group4.UWP.Project3Data_Group4_UWP_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
+                userType.Activator = Activate_5_TooltipViewConverter;
+                userType.SetIsBindable();
+                xamlType = userType;
+                break;
+
+            case 6:   //  Object
+                xamlType = new global::Project3Data_Group4.UWP.Project3Data_Group4_UWP_XamlTypeInfo.XamlSystemBaseType(typeName, type);
+                break;
             }
             return xamlType;
         }
@@ -254,6 +270,8 @@ namespace Project3Data_Group4.UWP.Project3Data_Group4_UWP_XamlTypeInfo
                 {
                     var otherProviders = new global::System.Collections.Generic.List<global::Windows.UI.Xaml.Markup.IXamlMetadataProvider>();
                     global::Windows.UI.Xaml.Markup.IXamlMetadataProvider provider;
+                    provider = new global::Syncfusion.SfChart.UWP.Syncfusion_SfChart_UWP_2015_XamlTypeInfo.XamlMetaDataProvider() as global::Windows.UI.Xaml.Markup.IXamlMetadataProvider;
+                    otherProviders.Add(provider); 
                     provider = new global::Xamarin.Forms.Platform.UAP.Xamarin_Forms_Platform_UAP_XamlTypeInfo.XamlMetaDataProvider() as global::Windows.UI.Xaml.Markup.IXamlMetadataProvider;
                     otherProviders.Add(provider); 
                     _otherProviders = otherProviders;

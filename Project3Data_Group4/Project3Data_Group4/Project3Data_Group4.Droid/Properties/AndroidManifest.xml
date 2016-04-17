@@ -10,6 +10,6 @@
 	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 	<uses-permission android:name="android.permission.INTERNET" />
 	<application android:label="Roffa Parkeergarage Zoeker">
-	<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyD4YjZ5dpxPO9Wjq4M44dI0Em63km69FYw" />
+		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyD4YjZ5dpxPO9Wjq4M44dI0Em63km69FYw" />
 	</application>
 </manifest>

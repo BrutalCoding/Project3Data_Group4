@@ -13,7 +13,7 @@ namespace Project3Data_Group4
 		public GaragePage ()
 		{
 			GarageViewModel vm;
-			InitializeComponent ();
+			InitializeComponent();
 			BindingContext = vm = new GarageViewModel();
 
 			
@@ -39,14 +39,15 @@ namespace Project3Data_Group4
 
 					foreach(var item in vm.Garages)
 					{
-						var position = new Position (item.locationForDisplay.latitude, item.locationForDisplay.longitude);
-						var pin = new Pin {
-							Type = PinType.Place,
-							Position = position,
-							Label = item.Name,
-							Address = item.Name
-						};
-						MyMap.Pins.Add(pin);
+                        var position = new Position(item.locationForDisplay.latitude, item.locationForDisplay.longitude);
+                        var pin = new Pin
+                        {
+                            Type = PinType.Place,
+                            Position = position,
+                            Label = item.Name,
+                            Address = item.Name
+                        };
+                        MyMap.Pins.Add(pin);
 					}
 					
 				};

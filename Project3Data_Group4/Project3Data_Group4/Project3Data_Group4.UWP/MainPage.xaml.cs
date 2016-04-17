@@ -12,6 +12,7 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
+using Syncfusion.SfChart.XForms.UWP;
 
 namespace Project3Data_Group4.UWP
 {
@@ -19,6 +20,7 @@ namespace Project3Data_Group4.UWP
     {
         public MainPage()
         {
+            new SfChartRenderer();
             this.InitializeComponent();
 
             LoadApplication(new Project3Data_Group4.App());
