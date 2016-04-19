@@ -132,6 +132,11 @@
       <Name>Project3Data_Group4</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Syncfusion.SfChart.XForms">
+      <HintPath>..\..\..\..\..\..\AppData\Local\Syncfusion\EssentialStudio\14.1.0.41\Xamarin\lib\uwp\Syncfusion.SfChart.XForms.dll</HintPath>
+    </Reference>
+  </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>

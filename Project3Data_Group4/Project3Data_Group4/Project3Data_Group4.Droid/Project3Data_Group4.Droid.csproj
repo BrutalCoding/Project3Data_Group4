@@ -59,15 +59,15 @@
     <Reference Include="Mono.Android" />
     <Reference Include="mscorlib" />
     <Reference Include="Syncfusion.SfChart.Android, Version=14.1451.0.41, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Syncfusion.Xamarin.SfChart.14.1.0.41\lib\MonoAndroid10\Syncfusion.SfChart.Android.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\AppData\Local\Syncfusion\EssentialStudio\14.1.0.41\Xamarin\lib\android\Syncfusion.SfChart.Android.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Syncfusion.SfChart.XForms, Version=14.1451.0.41, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Syncfusion.Xamarin.SfChart.14.1.0.41\lib\MonoAndroid10\Syncfusion.SfChart.XForms.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\AppData\Local\Syncfusion\EssentialStudio\14.1.0.41\Xamarin\lib\android\Syncfusion.SfChart.XForms.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Syncfusion.SfChart.XForms.Android, Version=14.1451.0.41, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Syncfusion.Xamarin.SfChart.14.1.0.41\lib\MonoAndroid10\Syncfusion.SfChart.XForms.Android.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\AppData\Local\Syncfusion\EssentialStudio\14.1.0.41\Xamarin\lib\android\Syncfusion.SfChart.XForms.Android.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />

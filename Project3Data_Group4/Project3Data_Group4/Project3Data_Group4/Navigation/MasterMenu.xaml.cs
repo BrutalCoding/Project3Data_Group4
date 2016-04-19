@@ -23,8 +23,8 @@ namespace Project3Data_Group4.Navigation
 
         private void NavigatieMenu()
         {
-            MenuItems.Add(new ItemsInMenu { LijstItemNaam = "Toon map" });
-            MenuItems.Add(new ItemsInMenu { LijstItemNaam = "Toon RET haltes" });
+            MenuItems.Add(new ItemsInMenu { LijstItemNaam = "Garages" });
+            MenuItems.Add(new ItemsInMenu { LijstItemNaam = "RET haltes" });
             MenuItems.Add(new ItemsInMenu { LijstItemNaam = "Over ons" });
             MasterMenuNavMaster.ItemsSource = MenuItems;
             MasterMenuNavMaster.ItemSelected += MasterMenuNavMasterOnItemSelected;
@@ -35,8 +35,8 @@ namespace Project3Data_Group4.Navigation
             var gekozenOptie = (ItemsInMenu) selectedItemChangedEventArgs.SelectedItem;
             switch (gekozenOptie.LijstItemNaam)
             {
-                case "Toon map":
-                    this.Detail = new TabbedPage { Children = { new GaragePage(), new StatistiekenGarages()}};
+                case "Garages":
+                    this.Detail = new TabbedPage { Children = { new GaragePage(), new Forms.FormGarageTimeCheck(), new StatistiekenGarages()}};
                     break;
 
                 default:

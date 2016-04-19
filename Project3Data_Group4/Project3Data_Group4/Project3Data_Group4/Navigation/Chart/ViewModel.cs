@@ -61,6 +61,7 @@ namespace Project3Data_Group4
                 new Model(new DateTime(2016, 4, 17), 100)
             };
         }
+
         public async void LoadPieChart()
         {
             await GetGarageAsync();
